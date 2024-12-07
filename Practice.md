@@ -27,7 +27,7 @@ Resources for practicing Open-Source Intelligence skillsets.
 [Live CTFs For Finding Missing People](https://tracelabs.org)|TraceLabs|
 [Various OSINT Challenges](https://hackyourmom.com/en/kibervijna/osint-ctf-challenges/)|HackYourMom|
 [Open Source Challenge](https://challenge.bellingcat.com/)|Bellingcat|
-[Big Ass Broker OPT Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-Lis)|Practice By Removing Your Data From Data Brokers|
+[Big Ass Broker OPT Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)|Practice By Removing Your Data From Data Brokers|
 |[IntelTechniques Data Removal Guide](https://inteltechniques.com/workbook.html)|Practice By Removing Your Data From Data Brokers|
 [IntelTechniques Credential Exposure Removal Gudie](https://inteltechniques.com/exposure.html)|Practice By Removing Your Data From Credential Exposure Lists|
 
