@@ -1,9 +1,10 @@
 <div align="center">
-  
-# 🕵️‍♂️ The Kitchen Sink 🕵️‍♂️
-Here you will find toolkits, learning, and practice resources for Open-Source Intelligence investigations. These resources have been gathered from all corners of the internet. The resources are constantly being updated and refined with new tools, information, and resources.
 
-If you would like to contribute a resource to or report an issue with a resource, please submit your request(s) in the [issues] section or create a pull request.
+# 🕵️‍♂️ The Kitchen Sink 🕵️‍♂️
+
+![mag](https://github.com/user-attachments/assets/ee0035aa-ca63-41f7-9bcf-ff2c90cd8e3b)
+
+Here you will find toolkits, learning, and practice resources for Open-Source Intelligence investigations. These resources have been gathered from all corners of the internet. The resources are constantly being updated and refined with new tools, information, and resources.
 
 ## [OSINTials Toolkit](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md) | [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md) | [Learn](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md) | [Practice](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) | [Bookmarks](https://github.com/OSINTI4L/The-Kitchen-Sink/tree/main/Bookmarks)
 
