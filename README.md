@@ -5,7 +5,7 @@ Here you will find toolkits, learning, and practice resources for Open-Source In
 
 If you would like to contribute a resource to or report an issue with a resource, please submit your request(s) in the [issues] section or create a pull request.
 
-## [OSINTials Toolkit]
+## [OSINTials Toolkit](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md) | [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md) | [Learn](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md) | [Practice](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) | [Bookmarks](https://github.com/OSINTI4L/The-Kitchen-Sink/tree/main/Bookmarks)
 
 </div>
 
