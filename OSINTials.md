@@ -80,7 +80,8 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[Validnumber](https://validnumber.com/)|Telephone Number Lookup|
 |[Free Carrier Lookup](https://Freecarrierlookup.com)|Identify Phone Number Carrier|
 |[Carrier Lookup](https://carrierlookup.com)|Identify Phone Number Carrier|
-|[Sly Dial](http://slydial.com)/267-759-3425|Listen To Target Numbers' Voicemail Without calling (majority of time phone does not ring, small chance of phone ringing, do not use if concerned of alerting phone owner)|
+|[Sly Dial](http://slydial.com)/267-759-3425|Listen To Target Numbers' Voicemail Without Calling (majority of time phone does not ring, small chance of phone ringing, do not use if concerned of alerting phone owner)|
+|[cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl)|Username And Phone Number Search Tool That Crawls Adult Content Platforms To See If A Targeted Account Or Person Is Present|
 |[Country Code](https://countrycode.org/)|World Area Code Listing|
 
 [↑ Back To Top](#contents)
@@ -111,6 +112,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |Name|Description|
 |----|-----------|
 |[Whats My Name](https://Whatsmyname.app)|Find Accounts Associated With A Username|
+|[cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl)|Username And Phone Number Search Tool That Crawls Adult Content Platforms To See If A Targeted Account Or Person Is Present|
 |[NameCheckup](https://namecheckup.com)|Find Accounts Associated With A Username|
 |[Name Vine](https://namevine.com)|Find Accounts Associated With A Username|
 |[Check User Names](https://Checkusernames.com)|Find Accounts Associated With A Username|
