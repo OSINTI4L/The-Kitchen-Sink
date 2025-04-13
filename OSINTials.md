@@ -518,6 +518,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 |[Epic VIN](https://epicvin.com)|Vehicle VIN/LP Lookup|
 |[Vin Check](https://vincheck.inf)|Vehicle VIN Lookup|
 |[VIN Gurus](https://vingurus.com)|Vehicle VIN Lookup|
+|[ADSB Exchange](https://globe.adsbexchange.com/)|Live Flight Tracking|
 |[Flight Radar 24](https://www.flightradar24.com/)|Live Flight Tracking|
 |[Flightaware](https://www.flightaware.com/live/)|Live Flight Tracking|
 |[Vessel Finder](https://www.vesselfinder.com)|Live Maritime Tracking|
