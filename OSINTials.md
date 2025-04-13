@@ -1,6 +1,6 @@
 <div align="center">
 
-# The OSINTials Toolkit
+# The OSINT Essentials Toolkit (OSINTials)
 
 </div>
 
