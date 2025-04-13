@@ -11,7 +11,7 @@ Here you will find toolkits, learning, and practice resources for Open-Source In
 </div>
 
 ## OSINTials Toolkit
-The OSINTials Toolkit is a toolkit comprised of various open-source intelligence tools focusing on OSINT for people. It is currently used during missing persons investigations and focuses on quality over quantity. A corresponding set of bookmarks can be found [here].
+The OSINTials Toolkit is a toolkit comprised of various open-source intelligence tools focusing on OSINT for people. It is currently used during missing persons investigations and focuses on quality over quantity. A corresponding set of bookmarks can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTial-Bookmarks.html).
 
 ## Masterlists
 The Masterlists section is where various OSINT toolkits and resources can be found. If you're looking for a particular toolkit or want to expand your own, this is the place to do it.
