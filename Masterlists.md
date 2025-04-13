@@ -1,6 +1,6 @@
 <div align="center">
   
-## A collection of various OSINT toolkit masterlists.
+## A collection of various Open-Source Intelligence toolkits.
  
 |Master List|Description|
 |-----------|-----------|
