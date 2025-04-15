@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕵️‍♂️🫆 The Kitchen Sink 🕵️‍♂️🫆
+# 🕵️‍♂️ The Kitchen Sink 🕵️‍♂️
 
 ![mag](https://github.com/user-attachments/assets/ee0035aa-ca63-41f7-9bcf-ff2c90cd8e3b)
 
