@@ -1,4 +1,6 @@
 <div align="center">
+  
+![P](https://github.com/user-attachments/assets/8b9d97ec-2bca-44db-9e69-1482f5d21135)
 
 ## Resources for practicing Open-Source Intelligence skillsets.
 
