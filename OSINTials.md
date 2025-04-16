@@ -1,7 +1,5 @@
 <div align="center">
   
-![0](https://github.com/user-attachments/assets/1464c204-92fb-4cbd-b9c1-7a6474483ebd)
-  
 # The OSINT Essentials Toolkit (OSINTials)
 
 </div>
