@@ -13,6 +13,7 @@
 |[Meta OSINT](https://metaosint.github.io)|Web-based GUI OSINT Toolkit|
 |[Osintia Zoekslag](https://start.me/p/4K0DXg/social-media)|Social Media OSINT Toolkit|
 |[Bohdan Taraneko](https://start.me/p/aL6BOM/online-gaming-intelligence)|Online Gaming Intelligence Toolkit|
+|[Cyber Detective International Toolkit Map](https://cybdetective.com/osintmap/)|OSINT Resources Toolkit Organized by Country|
 |[OSINT For Countries](https://github.com/wddadk/OSINT-for-countries)|OSINT Resources Toolkit Organized by Country|
 |[Sightlent](https://start.me/p/jj2XEr/osint-global-non-us)|OSINT Resources Toolkit Organized by Country|
 |[ItIsMeCall911](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|OSNT Toolkit for Telegram
