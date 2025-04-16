@@ -1,5 +1,7 @@
 <div align="center">
   
+![TA](https://github.com/user-attachments/assets/4e8ec32f-7f06-4ca2-8173-a471508cc482)
+
 ## Resources to learn about the tools and techniques used in Open-Source Intelligence.
 
 |Name|Description|
