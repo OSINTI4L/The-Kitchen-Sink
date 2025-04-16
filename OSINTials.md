@@ -1,7 +1,7 @@
 <div align="center">
 
 # The OSINT Essentials Toolkit (OSINTials)
-
+![0](https://github.com/user-attachments/assets/1464c204-92fb-4cbd-b9c1-7a6474483ebd)
 </div>
 
 An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing quality over quantity. A corresponding set of bookmarks can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTial-Bookmarks.html).
