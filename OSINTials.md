@@ -261,18 +261,18 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 ## Search Engines
 |Name|Description|
 |----|-----------|
-|[Google](https://google.com)|Google Search Engine|
+|- [Google](https://google.com)|Google Search Engine|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
 |&nbsp;&nbsp;&nbsp;&nbsp;[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)|Various Hacking/OSINT Google Dorks Syntax|
-|[Bing](https://bing.com)|Bing Search Engine|
+|- [Bing](https://bing.com)|Bing Search Engine|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Bing - Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
 |[Yandex](https://yandex.com)|Bing Search Engine|
 |[DuckDuckGo](https://duckduckgo.com)|DuckDuckGo Search Engine|
 |[Qwant](https://qwant.com)|Qwant Search Engine|
-|[Yahoo](https://yahoo.com)|Yahoo Search Engine|
+|- [Yahoo](https://yahoo.com)|Yahoo Search Engine|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Yahoo - (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
 |[Brave](https://search.brave.com)|Brave Search Engine|
 |[Wayback Machine](https://archive.org)|Search Archived Webpages|
@@ -283,7 +283,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 ## Maps and Geolocation Identifiers
 |Name|Description|
 |----|-----------|
-|[Google Maps](https://maps.google.com)|Maps Service|
+|- [Google Maps](https://maps.google.com)|Maps Service|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Instant Street View](https://instantstreetview.com)|Snap To Google Street View|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Google Earth](https://earth.google.com/)|Maps Service|
 |[Bing Maps](https://www.bing.com/maps)|Maps Service|
