@@ -354,7 +354,6 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[LeakPeek](https://leakpeek.com)|Credential Breach Lookup|
 |[Have I Been Pwned](https://Haveibeenpwned.com)|Credential Breach Lookup|
 |[Have I Been Zuckered](https://haveibeenzuckered.com)|Search A Phone Number To See If it Was in 2019 Facebook Data Breach|
-|[Illicit Services](https://search.illicit.services/)|Credential Breach Lookup (currently down)| - Currently Down|
 |[Breach Parse](https://github.com/hmaverickadams/breach-parse)|Data Breach Parsing Tool|
 
 [↑ Back To Top](#contents)
