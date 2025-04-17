@@ -310,15 +310,15 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[Google Images](https://images.google.com)|Image Search|
 |[Bing Images](https://bing.com/images)|Image Search|
 |[Yandex Images](https://yandex.com/images/)|Image Search|
-|[Lenso AI](https://lenso.ai/)|AI Image Search (Can Also Be Used As Facial Recognition)|
 |[Shutterstock](https://www.shutterstock.com)|Image Search|
 |[Alamy](https://www.alamy.com/)|Image Search|
 |[Tineye](https://tineye.com)|Image Search|
-|[Face Comparison](https://facecomparison.toolpie.com/)|Compare Two Images To See If They Are The Same Person|
-|[Face Shape](https://www.faceshape.com/face-compare)|Compare Two Images To See If They Are The Same Person|
+|[Lenso AI](https://lenso.ai/)|AI Image Search (Can Also Be Used As Facial Recognition)|
 |[Facecheck](https://facecheck.id)|Facial Recognition|
 |[Pimeyes](https://pimeyes.com)|Facial Recognition|
 |[Search4Faces](https://www.search4faces.com/en/)|Facial Recognition|
+|[Face Comparison](https://facecomparison.toolpie.com/)|Compare Two Images To See If They Are The Same Person|
+|[Face Shape](https://www.faceshape.com/face-compare)|Compare Two Images To See If They Are The Same Person|
 |[Remove.bg](https://remove.bg)|Removes The Background Of An Image|
 |[Cleaup.Pictures](https://cleanup.pictures)|Removes Objects From An Image|
 |[Upscayl](https://upscayl.org)|Image Upscaler|
@@ -327,7 +327,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[Forensically](https://29a.ch/photo-forensics/)|Apply Filters To Analyze An Image|
 |[ImgOps](https://imgops.com)|EXIF Data Viewer|
 |[jExifToolGUI](https://flathub.org/apps/io.github.hvdwofl.jExifToolGUI)|EXIF Data Viewer|
-|[ExitTool](https://exiftool.org/)|EXIF Data Viewer|
+|[ExifTool](https://exiftool.org/)|EXIF Data Viewer|
 |[xeuledoc](https://github.com/Malfrats/xeuledoc)|Google Document Metadata Viewer|
 |[Extract Metadata](https://Extractmetadata.com)|Metadata Viewer|
 |[Exif Info](https://Exifinfo.org)|Metadata Viewer|
