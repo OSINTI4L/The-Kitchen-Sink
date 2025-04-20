@@ -4,6 +4,8 @@
 
 ## Resources to learn about the tools and techniques used in Open-Source Intelligence.
 
+Additional OSINT technique walk-throughs can be found in [The Kitchen Sink Wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki).
+
 |Name|Description|
 |----|-----------|
 |[Intel Techniques - Resources for Uncovering Online Information - 11th Edition (2024)](https://inteltechniques.com/book1.html)|Intel Techniques Manual For OSINT Invetigative Techniques (Newest Version)
