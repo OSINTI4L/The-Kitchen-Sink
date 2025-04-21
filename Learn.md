@@ -4,7 +4,7 @@
 
 ## Resources to learn about the tools and techniques used in Open-Source Intelligence.
 
-Additional OSINT technique walk-throughs can be found in [The Kitchen Sink Walk-Throughs](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki).
+Additional OSINT technique walk-throughs can be found in [The Kitchen Sink Wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki).
 
 |Name|Description|
 |----|-----------|
