@@ -467,8 +467,6 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 |[Whoisology](https://Whoisology.com)|Domain Lookup|
 |[Whoxy](https://whoxy.com)|Historical Domain Registration|
 |[Whois History](https://whois-history.whoisxmlapi.com)|Historical Domain Registration|
-|[Follow That Page](https://followthatpage.com)|Sends Email Notifications When Webpages Change|
-|[Visual Ping](https://visualping.io)|Sends Email Notifications When Webpages Change|
 |[Spy On Web](https://spyonweb.com)|Domain Analytic IDs|
 |[Analyze ID](https://analyzeid.com)|Domain Analytic IDs|
 |[Built With](https://builtwith.com)|Domain Analytic IDs|
