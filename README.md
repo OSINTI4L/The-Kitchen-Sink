@@ -20,7 +20,7 @@ The Masterlists section is where various OSINT toolkits and resources can be fou
 Many people interested in open-source intelligence are unsure where to begin, the amount of resources and knowledge can be overwhelming. Because of this I have created a section of resources specifically designed to help get you started developing your OSINT skillset. You can find tools, methodology, and other educational walk-throughs here.
 
 ## Walk-Throughs
-Walk-throughs are technique specific guides that explain various OSINT methods in-depth. If you're interested in learning resources, in addition to the dedicated [learning section](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md), give it look.
+Walk-throughs are technique specific guides that explain various OSINT methods in-depth. If you're interested in learning various techniques, in addition to the dedicated [learning section](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md), give it look.
 
 ## Practice
 Once you've started researching and developing your OSINT skillset you'll want to refine it. The Practice section was created with this in mind. Here you'll find a list of resources and challenges for you to practice your OSINT skillset.
