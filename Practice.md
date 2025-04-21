@@ -12,7 +12,7 @@
 ["SomeSint" - SOCMINT](https://tryhackme.com/r/room/somesint)|TryHackMe|
 ["SearchlightOSINT" - Imagery Intelligence](https://tryhackme.com/r/room/searchlightosint)|TryHackMe|
 ["Geolocating Images"](https://tryhackme.com/r/room/geolocatingimages)|TryHackMe|
-[How To Use Shodan.io Walkthrough - BeeSec](https://tryhackme.com/r/room/shodan)|TryHackMe|
+["Shodan.io" - BeeSec](https://tryhackme.com/r/room/shodan)|TryHackMe|
 ["OSINT Level 1" - FINDX](https://tryhackme.com/room/osintintel)|TryHackMe|
 [Cody Bernardy OSINT Challenges Playlist](https://youtube.com/playlist?list=PLc_hdO4HVYGCg21E7lSQY6UltFigzwbbw&si=JrECV_G4g69GGYs5)|Youtube|
 [OSINTdojo OSINT Challenges Playlist](https://www.youtube.com/watch?v=4Hkdxnqz1mg&list=PLtoC6Cd29__XR223Kgup_eOD-8EkDQctr)|Youtube|
