@@ -27,5 +27,5 @@ Once you've started researching and developing your OSINT skillset you'll want t
 
 ## Bookmarks
 Bookmarks are available as an easy way to import The-Kitchen-Sink resources.
-- [OSINTials Toolkit](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTial-Bookmarks.html)
+- [OSINTials Toolkit](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTials-Bookmarks.html)
 - [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/Masterlists-Bookmarks.html)
