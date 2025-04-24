@@ -4,7 +4,7 @@
 
 </div>
 
-An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing quality over quantity. A corresponding set of bookmarks can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTial-Bookmarks.html).
+An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing quality over quantity. A corresponding set of bookmarks can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTials-Bookmarks.html).
 
 ## Contents
 ### 🧑 [People Search](#people-search)
