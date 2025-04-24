@@ -11,7 +11,7 @@ Here you will find toolkits, learning, and practice resources for Open-Source In
 </div>
 
 ## OSINTials Toolkit
-The OSINTials Toolkit is a toolkit comprised of various open-source intelligence tools focusing on OSINT for people. It is currently used during missing persons investigations and focuses on quality over quantity. A corresponding set of bookmarks can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTial-Bookmarks.html).
+The OSINTials Toolkit is a toolkit comprised of various open-source intelligence tools focusing on OSINT for people. It is currently used during missing persons investigations and focuses on quality over quantity.
 
 ## Masterlists
 The Masterlists section is where various OSINT toolkits and resources can be found. If you're looking for a particular toolkit or want to expand your own, this is the place to do it.
@@ -20,7 +20,12 @@ The Masterlists section is where various OSINT toolkits and resources can be fou
 Many people interested in open-source intelligence are unsure where to begin, the amount of resources and knowledge can be overwhelming. Because of this I have created a section of resources specifically designed to help get you started developing your OSINT skillset. You can find tools, methodology, and other educational walk-throughs here.
 
 ## Walk-Throughs
-Walk-throughs are technique specific guides that explain various OSINT methods in-depth. If you're interested in learning various techniques, in addition to the dedicated [learning section](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md), give it look.
+Walk-throughs are technique specific guides that explain various OSINT methods in-depth. If you're interested in learning various techniques, in addition to the dedicated learning section, give it look.
 
 ## Practice
 Once you've started researching and developing your OSINT skillset you'll want to refine it. The Practice section was created with this in mind. Here you'll find a list of resources and challenges for you to practice your OSINT skillset.
+
+## Bookmarks
+Bookmarks are available as an easy way to import The-Kitchen-Sink resources.
+- [OSINTial Toolkit](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTial-Bookmarks.html)
+- [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/Masterlists-Bookmarks.html)
