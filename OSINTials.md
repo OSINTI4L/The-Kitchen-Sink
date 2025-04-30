@@ -353,7 +353,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 [↑ Back To Top](#contents)
 
 ## Tor Hidden Services
->**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list it's for a reason. I refuse to list any hidden services that do not utilize filters or have rules in place to prevent indexing egregiously degenerate content.
+>**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list it's for a reason. I refuse to list any hidden services that do not utilize filters or have rules in place to prevent indexing egregiously degenerate content. Due to the volatility of the Tor network, expect certain services to be down temporarily or permanently.
 ### Link Directories
 - **Daunt.Link**
     - daunt.link
@@ -386,13 +386,13 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
   - pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 
 - **Reddit**
-
   - r/onions, r/darknet, r/deepweb, r/TOR, r/tails
   - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/onions/
   - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/darknet/
   - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
   - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
   - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
+
 ### Search Engines
 - **Ahmia** - Darknet search engine.
   - ahmia.fi
@@ -421,7 +421,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 
 - **Dig** - Darknet market vendor search.
   - digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
-  - 
+
 ### Journalism & Resources
 - **Distributed Denial of Secrets** - A Journalist organization that archives and publishes hacked and leaked documents (no onion URL available at this time).
   - ddosecrets.com
