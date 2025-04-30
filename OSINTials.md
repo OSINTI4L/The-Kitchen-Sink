@@ -291,7 +291,6 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[Map Quest](https://www.mapquest.com)|Maps Service|
 |[Open Street Map](https://openstreetmap.org)|Maps Service|
 |[Satellites.Pro](https://satellites.pro/)|Maps Service|
-|[Geospy](https://geospy.ai)|AI Image Geolocation|
 |[Find Pic Location](https://findpiclocation.com/)|AI Image Geolocation|
 |[Bellingcat OSM Search](https://osm-search.bellingcat.com/)|Geolocation Based On Inputting The Description Of An Image|
 |[Geohints](https://geohints.com/)|Geolocation Identifiers Master List|
