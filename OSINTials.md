@@ -355,101 +355,92 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 ## Tor Hidden Services
 >**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list it's for a reason. I refuse to list any hidden services that do not utilize filters or have rules in place to prevent indexing egregiously degenerate content.
 ### Link Directories
-**Daunt.Link**
-- daunt.link
-- dauntdatakit2xi4usevwp3pajyppsgsrbzkfqyrp6ufsdwrnm6g5tqd.onion
+- **Daunt.Link**
+    - daunt.link
+    - dauntdatakit2xi4usevwp3pajyppsgsrbzkfqyrp6ufsdwrnm6g5tqd.onion
 
-**Tor.Taxi**
-- tor.taxi
-- tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion
+- **Tor.Taxi**
+  - tor.taxi
+  - tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion
 
-**Dark.Fail**
-- dark.fail
-- darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
+- **Dark.Fail**
+  - dark.fail
+  - darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
 
-**TheTorTimes**
-- tortimes.com
-- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion
-- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/forums/
-- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/onions/
+- **TheTorTimes**
+  - tortimes.com
+  - tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion
+  - tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/forums/
+  - tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/onions/
 
-**Dread/d/HiddenService**
->A subdread for mass posting of hidden services.
-- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
+- **Dread/d/HiddenService** - A subdread for mass posting of hidden services.
+  - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
 
 ### Forums
-**Dread**
->Dread is an onion based free speech platform and forum, where you can post, comment and share among tonnes of different communities. This is a darknet social media platform similar to Reddit.
-- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
-- g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
+- **Dread** - Dread is an onion based free speech platform and forum, where you can post, comment and share among tonnes of different communities. This is a darknet social media platform similar to Reddit.
+  - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+  - g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
 
-**Pitch**
->Pitch is a free tor only social media platform that allows users to share posts and follow other users. This is a darknet social media platform similar to Twitter/X.
-- pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
-- pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
+- **Pitch** - Pitch is a free tor only social media platform that allows users to share posts and follow other users. This is a darknet social media platform similar to Twitter/X.
+  - pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
+  - pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 
-**Reddit**
+- **Reddit**
 
-r/onions, r/darknet, r/deepweb, r/TOR, r/tails
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/onions/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/darknet/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
+  - r/onions, r/darknet, r/deepweb, r/TOR, r/tails
+  - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/onions/
+  - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/darknet/
+  - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
+  - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
+  - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
 ### Search Engines
-**Ahmia**
-- ahmia.fi
-- juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
+- **Ahmia** - Darknet search engine.
+  - ahmia.fi
+  - juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
 
-**VormWeb**
-- vormweb.de/en/
-- volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/en/
+- **VormWeb** - Darknet search engine.
+  - vormweb.de/en/
+  - volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/en/
 
-**DuckDuckGo**
-- duckduckgo.com
-- duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+- **DuckDuckGo** - Clearnet search engine.
+  - duckduckgo.com
+  - duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
 
-**Brave**
-- search.brave.com
-- search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
+- **Brave** - Clearnet search engine.
+  - search.brave.com
+  - search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
 
-**The Onion Archive**
->A darknet version of the Wayback Machine.
-- x4ijfwy76n6jl7rs4qyhe6qi5rv6xyuos3kaczgjpjcajigjzk3k7wqd.onion
+- **The Onion Archive** - A darknet version of the Wayback Machine.
+  - x4ijfwy76n6jl7rs4qyhe6qi5rv6xyuos3kaczgjpjcajigjzk3k7wqd.onion
 
-**Narcoogle**
->Narcoogle is a powerful darknet market search engine that provides extensive information about vendors and products.
-- narcooqom5mfevbeb6gck5tg5y2g2f5grywcu7cp4b3bvsmlvph66wqd.onion
+- **Narcoogle** - Narcoogle is a powerful darknet market search engine that provides extensive information about vendors and products.
+  - narcooqom5mfevbeb6gck5tg5y2g2f5grywcu7cp4b3bvsmlvph66wqd.onion
 
-**Recon**
->Darknet market vendor search.
-- recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion
+- **Recon** - Darknet market vendor search.
+  - recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion
 
-**Dig**
->Darknet market vendor search.
-- digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
+- **Dig** - Darknet market vendor search.
+  - digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
+  - 
 ### Journalism & Resources
-**Distributed Denial of Secrets**
->A Journalist organization that archives and publishes hacked and leaked documents.
->(no onion URL available at this time)
-- ddosecrets.com
+- **Distributed Denial of Secrets** - A Journalist organization that archives and publishes hacked and leaked documents (no onion URL available at this time).
+  - ddosecrets.com
 
-**RiseUp**
->A service hosting organization for individuals such as journalists.
-- riseup.net
-- vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
+- **RiseUp** - A service hosting organization for individuals such as journalists.
+  - riseup.net
+  - vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
 
-**The NewYork Times**
-- nytimes.com
-- nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+- **The NewYork Times**
+  - nytimes.com
+  - nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 
-**Pro Publica**
-- propublica.org
-- p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion
+- **Pro Publica**
+  - propublica.org
+  - p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion
 
-**The Guardian**
-- theguardian.com
-- guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion
+- **The Guardian**
+  - theguardian.com
+  - guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion
 
 [↑ Back To Top](#contents)
 
