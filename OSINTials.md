@@ -329,11 +329,6 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[jExifToolGUI](https://flathub.org/apps/io.github.hvdwofl.jExifToolGUI)|EXIF Data Viewer|
 |[ExifTool](https://exiftool.org/)|EXIF Data Viewer|
 |[xeuledoc](https://github.com/Malfrats/xeuledoc)|Google Document Metadata Viewer|
-|[Extract Metadata](https://Extractmetadata.com)|Metadata Viewer|
-|[Exif Info](https://Exifinfo.org)|Metadata Viewer|
-|[Online Decoder](https://Online-barcode-reader.com)|Barcode Scanner|
-|[Online Barcode](https://Onlinebarcodereader.com)|Barcode Scanner|
-|[Online Barcode Reader](https://Online-barcode-reader.inliteresearch.com)|Barcode Scanner|
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
 |[yt-dlp](https://github.com/yt-dlp/yt-dlp)|Video Downloader|
 |[Video Downloader](https://flathub.org/apps/com.github.unrud.VideoDownloader)|Video Downloader|
