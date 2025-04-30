@@ -374,17 +374,17 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 - tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/onions/
 
 **Dread/d/HiddenService**
->A subdread for mass posting of hidden services
+>A subdread for mass posting of hidden services.
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
 
 ### Forums
 **Dread**
->This is a darknet social media platform similar to Reddit
+>Dread is an onion based free speech platform and forum, where you can post, comment and share among tonnes of different communities. This is a darknet social media platform similar to Reddit.
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
 - g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
 
 **Pitch**
->This is a darknet social media platform similar to Twitter
+>Pitch is a free tor only social media platform that allows users to share posts and follow other users. This is a darknet social media platform similar to Twitter/X.
 - pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
 - pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 
@@ -413,21 +413,29 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - search.brave.com
 - search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
 
+**The Onion Archive**
+>A darknet version of the Wayback Machine.
+- x4ijfwy76n6jl7rs4qyhe6qi5rv6xyuos3kaczgjpjcajigjzk3k7wqd.onion
+
+**Narcoogle**
+>Narcoogle is a powerful darknet market search engine that provides extensive information about vendors and products.
+- narcooqom5mfevbeb6gck5tg5y2g2f5grywcu7cp4b3bvsmlvph66wqd.onion
+
 **Recon**
->A DNM search engine
+>Darknet market vendor search.
 - recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion
 
 **Dig**
->A search engine for finding DNM vendors
+>Darknet market vendor search.
 - digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
 ### Journalism & Resources
 **Distributed Denial of Secrets**
->A Journalist organization that archives and publishes hacked and leaked documents
+>A Journalist organization that archives and publishes hacked and leaked documents.
 >(no onion URL available at this time)
 - ddosecrets.com
 
 **RiseUp**
->A service hosting organization for individuals such as journalists
+>A service hosting organization for individuals such as journalists.
 - riseup.net
 - vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
 
