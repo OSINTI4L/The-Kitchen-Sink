@@ -1,10 +1,11 @@
 <div align="center">
   
-# The OSINT Essentials Toolkit (OSINTials)
+# The OSINT Essentials (OSINTials)
+![finalbox](https://github.com/user-attachments/assets/dfe6fbc7-dabe-48e3-b223-6c8bf3082f4b)
 
 </div>
 
-An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing quality over quantity. A corresponding set of bookmarks can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTials-Bookmarks.html).
+An OSINT toolkit that prioritizes quality over quantity. The overwhelming majority of tools in this toolkit are free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority. If you're interested, you can find the corresponding bookmarks for this toolkit [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTials-Bookmarks.html).
 
 ## Contents
 ### 🧑 [People Search](#people-search)
@@ -30,8 +31,8 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 ### ✈️ [Transportation](#transportation)
 ### 📹 [Webcams](#webcams)
 ### 🧦 [Sock Account Creation](#sock-account-creation)
-## People Search
 
+## People Search
 |Name|Description|
 |----|-----------|
 |[ID Crawl](https://www.idcrawl.com/)|Large Data Sets Including Social Media Accounts, People Search Info, and Search Engine Results|
@@ -55,7 +56,6 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 [↑ Back To Top](#contents)
 
 ## Death Search
-
 |Name|Description|
 |----|-----------|
 |[Legacy](https://Legacy.com/search)|Obituary Search|
@@ -547,6 +547,5 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[Temp-Mail](https://temp-mail.org/en/)|Burner Email Service|
 |[Guerrilla Mail](https://www.guerrillamail.com/)|Burner Email Service|
 |[10 Minute Mail](https://10minutemail.com/)|Burner Email Service|
-
 
 [↑ Back To Top](#contents)
