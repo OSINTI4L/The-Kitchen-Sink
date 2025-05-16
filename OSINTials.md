@@ -263,6 +263,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |----|-----------|
 |- [Google](https://google.com)|Google Search Engine|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Google - Alerts](https://google.com/alerts)|Get Notified When Google Crawls Searched Parameters|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
 |&nbsp;&nbsp;&nbsp;&nbsp;[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
 |&nbsp;&nbsp;&nbsp;&nbsp;[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
