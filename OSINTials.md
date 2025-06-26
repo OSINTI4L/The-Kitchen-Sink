@@ -327,6 +327,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[ImgOps](https://imgops.com)|EXIF Data Viewer|
 |[jExifToolGUI](https://flathub.org/apps/io.github.hvdwofl.jExifToolGUI)|EXIF Data Viewer|
 |[ExifTool](https://exiftool.org/)|EXIF Data Viewer|
+|[Exiflooter](https://www.kali.org/tools/exiflooter/)|EXIF Data Location Viewer|
 |[xeuledoc](https://github.com/Malfrats/xeuledoc)|Google Document Metadata Viewer|
 |[pdfinfo](https://www.cyberciti.biz/faq/linux-unix-view-technical-details-of-pdf/)|PDF Metadata Viewer|
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
