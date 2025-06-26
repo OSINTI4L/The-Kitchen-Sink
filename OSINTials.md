@@ -328,7 +328,7 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[jExifToolGUI](https://flathub.org/apps/io.github.hvdwofl.jExifToolGUI)|EXIF Data Viewer|
 |[ExifTool](https://exiftool.org/)|EXIF Data Viewer|
 |[xeuledoc](https://github.com/Malfrats/xeuledoc)|Google Document Metadata Viewer|
-|[pdfinfo](https://www.cyberciti.biz/faq/linux-unix-view-technical-details-of-pdf/)|CLI View PDF Metadata Viewer|
+|[pdfinfo](https://www.cyberciti.biz/faq/linux-unix-view-technical-details-of-pdf/)|PDF Metadata Viewer|
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
 |[yt-dlp](https://github.com/yt-dlp/yt-dlp)|Video Downloader|
 |[Video Downloader](https://flathub.org/apps/com.github.unrud.VideoDownloader)|Video Downloader|
@@ -457,10 +457,9 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[url2png](https://www.url2png.com/)|Domain Landing Page Snapshot|
 |[ViewDNS](https://viewdns.info)|Domain Lookup|
 |[Threat Intelligence Platform](https://threatintelligenceplatform.com)|Domain Lookup|
-|[Whois](https://www.kali.org/tools/whois/)|CLI Whois Domain Lookup
-|[Domain Tools](https://Whois.domaintools.com)|Whois Domain Lookup|
-|[Whoisology](https://Whoisology.com)|Whois Domain Lookup|
-|[Whoxy](https://whoxy.com)|Historical Whois Domain Lookup|
+|[Domain Tools](https://Whois.domaintools.com)|Domain Lookup|
+|[Whois](https://www.kali.org/tools/whois/)|Whois Domain Registration|
+|[Whoxy](https://whoxy.com)|Whois Historical Domain Registration|
 |[Whois History](https://whois-history.whoisxmlapi.com)|Whois Historical Domain Registration|
 |[Spy On Web](https://spyonweb.com)|Domain Analytic IDs|
 |[Analyze ID](https://analyzeid.com)|Domain Analytic IDs|
@@ -468,9 +467,12 @@ An OSINT toolkit focused on Open-Source Intelligence for people, prioritizing qu
 |[DNSLytics](https://dnslytics.com/reverse-analytics)|Domain Analytic IDs|
 |[Hacker Target](https://hackertarget.com/reverse-analytics-search)|Find Historic Analytics IDs Used For A Domain|
 |[CRT.sh](https://crt.sh)|SSL Certificates Lookup|
-|[smallSEOtools](https://smallseotools.com/backlink-checker)|View Domains That Post Links To Your Target Domain|
 |[Host.io](https://host.io)|View Domains That Post Links To Your Target Domain|
 |[Hacker Target Extract-Links](https://hackertarget.com/extract-links)|Find Links That Are Listed Inside Of A Target Domain|
+|[smallSEOtools Backlink Checker](https://smallseotools.com/backlink-checker)|View Domains That Post Links To Your Target Domain (backlinks)|
+|[Nerdy Data](https://www.nerdydata.com)|Source Code Search Tool (Search Indexed Source Code From Websites)|
+|[smallSEOtools Plagiarism Checker](https://smallseotools.com/plagiarism-checker/)|Locate Domains Posting Similar Content|
+|[Copy Scape Plagiarism  Checker](https://www.copyscape.com/)|Locate Domains Posting Similar Content||
 |[theHarvester](https://github.com/laramies/theHarvester)|Gather Subdomains, Emails, And IP Addresses Of Target Websites|
 |[Sublist3r](https://github.com/aboul3la/Sublist3r)|Gather Subdomains Of Target Websites|
 |[Photon](https://github.com/s0md3v/Photon)|Gather Information From Target Websites|
